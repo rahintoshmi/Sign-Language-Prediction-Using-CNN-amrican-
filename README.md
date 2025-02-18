@@ -1,4 +1,5 @@
 I developed this project to recognize hand signs using deep learning, specifically a Convolutional Neural Network (CNN). It focuses on American Sign Language (ASL) recognition and lays the groundwork for integrating Bangla Sign Language (BSL) in the future. 
+
 Dataset 
 Source: [ASL Alphabet Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) 
 Size: 87,000 images (200x200 pixels) 
